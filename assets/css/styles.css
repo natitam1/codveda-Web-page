@@ -94,7 +94,7 @@ header.scrolled {
 .logo img {
   height: 45px;
   transition: var(--transition);
-  background: #000;
+  color: black;
 }
 
 nav ul {
